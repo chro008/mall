@@ -1,9 +1,9 @@
 # mall
 
-##back
-###springMVC
-###spring
-###mybatis
+## back
+### springMVC
+### spring
+### mybatis
 
-##front
-###vue
+## front
+### vue
